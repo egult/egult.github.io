@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Фристайл</title>
+    <link>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii.html</link>
+    <description>Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor placerat fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit.</description>
+    <item>
+      <title>Тайник</title>
+      <link>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii.html#0</link>
+      <guid isPermaLink="false">365743a3-0167-4c2c-bbe1-8591f3a8c6d5</guid>
+      <enclosure url="file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv096068_A/dv096068_A.jpg" length="109659" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv096068_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv096068_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_233_36&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Тайник&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Высокий полет</title>
+      <link>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii.html#1</link>
+      <guid isPermaLink="false">f952d708-50e2-4da0-9c47-4f3fbf9e9c8b</guid>
+      <enclosure url="file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv1831012_A/dv1831012_A.jpg" length="41573" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv1831012_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv1831012_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_233_36&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Высокий полет&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>В парке</title>
+      <link>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii.html#2</link>
+      <guid isPermaLink="false">59cb9cd4-3eba-49dc-bb13-5ec0c092649a</guid>
+      <enclosure url="file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv1831014_A/dv1831014_A.jpg" length="51509" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv1831014_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/dv1831014_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_233_36&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;В парке&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Отслоение краски</title>
+      <link>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii.html#3</link>
+      <guid isPermaLink="false">e8200494-f5b0-4e6e-b1d9-04f9eff5876b</guid>
+      <enclosure url="file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/stk30431tst_A/stk30431tst_A.jpg" length="107179" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/stk30431tst_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/elena/Desktop/Sajt-test/Fotografii_files/Media/stk30431tst_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_233_36&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;paragraph_style&quot;&gt;Отслоение краски&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
